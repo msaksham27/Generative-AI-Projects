@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pypdf
+pinecone
+python-docx
+openai
+tiktoken
+PyPDF2
+langchain_pinecone
